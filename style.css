@@ -19,7 +19,7 @@
 }
 
 .mercuryf{
-	color: #7a7979;
+	color: #7c2620;
 }
 
 .jupiterf{
@@ -32,4 +32,16 @@
 
 .neptunef{
 	color: #1fba98;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 15px;
+}
+
+th#t01{
+	background-color: #1fba98
 }

@@ -1,23 +1,6 @@
 .purplef{
-	color: #d199ef;
+	color: #d199ef
 }
-
-.aquaf{
-	color: aquamarine;
-}
-
-.pinkf{
-	color: pink;
-}
-
-.chartf{
-	color: chartreuse;
-}
-
-.silverf{
-	color: silver;
-}
-
 .mercuryf{
 	color: #7c2620;
 }
@@ -34,8 +17,15 @@
 	color: #1fba98;
 }
 
+h1{
+	text-align: center;
+}
+
 table, th, td {
     border: 1px solid black;
+	width: 63%;
+	margin: auto;
+	text-align: center;
 }
 
 th, td {

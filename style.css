@@ -42,3 +42,7 @@ th, td {
     padding: 15px;
 	background-color: #d7e8f2;
 }
+
+.module:nth-child(odd) {
+  background-color: #e8d7f2;
+}
